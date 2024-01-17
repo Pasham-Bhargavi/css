@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(192, 196, 238);
+}
+        
+h1{
+            background:coral;
+            text-align: center;
+        }
+
+p{
+            background:orange;
+        }
+
+ol{
+            background:red;
+        }
+img {
+        width: 300px;
+        height: 200px;
+          }
